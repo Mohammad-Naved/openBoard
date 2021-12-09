@@ -1,2 +1,2 @@
 # openBoard
-check this board using-#https://openboardnav.netlify.app
+check this board-https://openboardnav.netlify.app
